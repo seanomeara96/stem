@@ -1,0 +1,16 @@
+[[basic_arithmetic]]
+[[algebra_1]]
+[[geometry]]
+[[algebra_2]]
+[[precalculus]] !important
+[[calculus_1]]
+[[calculus_2]]
+[[discrete_mathematics]]
+[[linear_algebra]]
+[[calculus_3]]
+[[differential_equations]]
+[[mathematical_analysis]]
+applications
+[[physics]]
+[[finance]]
+[[computer_science]]
