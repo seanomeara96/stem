@@ -1,0 +1,7 @@
+[[math]]
+[[biology]]
+[[chemistry]]
+[[physics]]
+[[formal_sciences]]
+[[natural_sciences]]
+[[social_sciences]]

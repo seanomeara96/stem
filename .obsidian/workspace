@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "math/algebra_1.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "math/algebra_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "science/formal_sciences/statistics.md",
-    "engineering/_engineering.md",
-    "math/_math.md",
-    "engineering/engineering.md",
-    "engineering/Untitled.md",
-    "math/curiculum.md",
-    "math/math.md",
-    "mathematical_analysis.md",
-    "differential_equations.md",
-    "calculus_3.md"
+    "math/algebra_1.md",
+    "technology/cloud_computing.md",
+    "science/formal_sciences/logic.md",
+    "science/social_sciences/sociology.md",
+    "science/natural_sciences/physics/physics_foundations.md",
+    "engineering/software/package_managers/pip.md",
+    "technology/blockchain.md",
+    "science/social_sciences/Untitled.md",
+    "science/science.md",
+    "science/Untitled.md"
   ]
 }
