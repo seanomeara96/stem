@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "math/algebra_1.md",
+            "file": "engineering/software/statements_vs_expressions.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/algebra_1.md",
+                "file": "engineering/software/statements_vs_expressions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "engineering/software/statements_vs_expressions.md",
+    "engineering/software/pure_functions.md",
+    "engineering/software/non_pure_functions.md",
+    "engineering/software/control.md",
+    "science/formal_sciences/computer_science/Untitled.md",
+    "engineering/software/Untitled.md",
+    "engineering/software/software.md",
     "math/algebra_1.md",
     "technology/cloud_computing.md",
-    "science/formal_sciences/logic.md",
-    "science/social_sciences/sociology.md",
-    "science/natural_sciences/physics/physics_foundations.md",
-    "engineering/software/package_managers/pip.md",
-    "technology/blockchain.md",
-    "science/social_sciences/Untitled.md",
-    "science/science.md",
-    "science/Untitled.md"
+    "science/formal_sciences/logic.md"
   ]
 }
