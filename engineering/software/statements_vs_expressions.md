@@ -1,6 +1,6 @@
 ## what is the difference between a statement and an expression?
-statements make some changes or give instructions to the interpreter
-expressions resolve to/ return a value
+[[statements]] make some changes or give instructions to the interpreter
+[[expressions ]] resolve to / return a value
 
 2+2 is an expression
 
